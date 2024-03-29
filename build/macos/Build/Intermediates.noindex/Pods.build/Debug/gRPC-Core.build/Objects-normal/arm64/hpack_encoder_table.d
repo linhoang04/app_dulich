@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/src/core/ext/transport/chttp2/transport/hpack_encoder_table.cc \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/src/core/ext/transport/chttp2/transport/hpack_encoder_table.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/container/inlined_vector.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/algorithm/algorithm.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/container/internal/inlined_vector.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/container/internal/compressed_tuple.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/span.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/span.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/src/core/ext/transport/chttp2/transport/hpack_constants.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/log.h

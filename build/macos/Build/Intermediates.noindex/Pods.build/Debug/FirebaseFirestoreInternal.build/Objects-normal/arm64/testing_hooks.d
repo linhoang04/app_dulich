@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/testing_hooks.cc \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/testing_hooks.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/api/listener_registration.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/remote/bloom_filter.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/nanopb/byte_string.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/nanopb/pb.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/comparison.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status_fwd.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor_internals.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/no_destructor.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h

@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/src/core/lib/gpr/time_posix.cc \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/src/core/lib/gpr/time_precise.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/gpr_types.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/time.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/atm.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/atm.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/atm_gcc_atomic.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/gRPC-Core/include/grpc/impl/codegen/log.h

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230822119958",
+    "project_id": "chatapptote",
+    "storage_bucket": "chatapptote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230822119958:android:ecce8e7b37a0f83b06c337",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_fighting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_JB1tLuL4WHTrPrmeDclykLRl7cq2EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

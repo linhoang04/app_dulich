@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.dia",
+    "emit-module-dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.swiftdeps"
+  },
+  "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift" : {
+    "const-values" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftconstvalues",
+    "dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.d",
+    "diagnostics" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "llvm-bc" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.bc",
+    "object" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "swift-dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftdeps",
+    "swiftmodule" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding~partial.swiftmodule"
+  },
+  "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift" : {
+    "const-values" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftconstvalues",
+    "dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.d",
+    "diagnostics" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "llvm-bc" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.bc",
+    "object" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "swift-dependencies" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftdeps",
+    "swiftmodule" : "/Users/luuhoanglinh/Documents/fire_base_chat/app_chat_fighting/app_chat_fighting/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder~partial.swiftmodule"
+  }
+}
